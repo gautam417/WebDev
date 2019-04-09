@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.center
+{
+  text-align: center;
+}
+.muscleContainer
+{
+  margin: 0 auto;
+  display: flex;
+
+}
+.muscle
+{
+  display: inline-flex;
+  justify-content: space-around;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /*Implement the border radius*/
+
+}
+
+body h1
+{
+    font-family: "Helvetica";
+    font-weight: bold;
+    background-color: rgb(206, 206, 206);
+}
+
+.blue
+{
+  color: rgb(65, 155, 244);
+}
+
+.orange
+{
+  color: rgb(244, 167, 66)
+}
+
+/*Muscle Group*/
+.bicep
+{
+  /*Implement the width and height*/
+
+}
+.chest
+{
+
+}
+.tricep
+{
+
+}
